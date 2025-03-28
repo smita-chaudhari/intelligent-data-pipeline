@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>maven/org/apache/spark/spark-sql-kafka-0-10_2.12/3.5.0/spark-sql-kafka-0-10_2.12-3.5.0.jar</Key><RequestId>ADRWFT870CSZ382J</RequestId><HostId>aHsDL3geSjhkbqC85oU8/wHrkfSzHfnwlH/phs2GMiUmFB1IPUMRc2IMsCDKvgPj4Y1CrrvUtCY=</HostId></Error>
