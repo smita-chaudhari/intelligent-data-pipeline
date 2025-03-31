@@ -20,6 +20,5 @@ def generate_transaction_logs(file_name, num_rows):
 
             writer.writerow([txn_id, date.isoformat(), region, sec_type, amount])
 
-# Change the number below to adjust size
-generate_transaction_logs('sample_transactions.csv', 10_000_000)
+generate_transaction_logs('sample_transactions.csv', 500)
 
